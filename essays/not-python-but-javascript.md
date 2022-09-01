@@ -19,6 +19,6 @@ Having not much experience with JavaScript other than JSON, which I'm not sure a
 In my opinion I think JavaScript is a good language as it seems much neater. Everything is straight forward to me and things will go much smoother once I have more experience. Having some knowledge about other programming languages helped out a lot, though I would not mind if JavaScript was the first programming language I learned.
 
 
-## Straight to the races
+## Off to the races
 
 Athletic software engineering is a process that requires a student to complete a coding task within a certain time frame. This action is called Workout of the Day or "WOD" for short. I find the practice WODs to be useful as it emulates the actual environment without much risk. This style of learning is stressful because I am usually unable to collect my thoughts quickly when coding and frequently make minor mistakes that is hard to pinpoint. I honestly don't think this style will work for me as I think of myself as a slow coder but will have a positive impact on my skills as things continue.
