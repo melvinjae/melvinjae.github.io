@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://cdn.discordapp.com/attachments/1019876231405109261/1019876516194177044/unknown.png
+image: src=<https://cdn.discordapp.com/attachments/1019876231405109261/1019876516194177044/unknown.png>
 title: "Nalu"
 date: 2021
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "A responsive web application for Hawai'i beach conditions that my team developed in EE 368."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="https://cdn.discordapp.com/attachments/1019876231405109261/1019876516194177044/unknown.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
