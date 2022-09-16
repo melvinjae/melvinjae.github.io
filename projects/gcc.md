@@ -21,7 +21,7 @@ Implementing an analog to digital converter (ADC) into a Gamecube controller was
 
 The extent of this project wasn't to actually build something but to simulate it. Simulating was done by first contructing a basic ADC schematic and then modifying it to suit our project. In this case, implementing NMOSes was done to mimic a controller input from a user.
 
-<img align="middle" src="/img/adc/adc.png">
-<img align="right" src="/img/adc/nmosimp.png">
+<img class="img-fluid" src="/img/adc/adc.png">
+<img class="img-fluid" src="/img/adc/nmosimp.png">
 
 In this project I gained experience with simulating circuits and adding more components to an existing circuit. I also experienced using NMOSes as switches, which was a topic we had just learned in that class only a few months prior.
