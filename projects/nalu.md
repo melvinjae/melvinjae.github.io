@@ -19,8 +19,8 @@ Nalu is a web interface that I helped create as a team project in EE 368, Spring
 
 Nalu is implemented using [Node RED](https://nodered.org/), a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways. Within a few weeks, we created a website interface that displays the chosen beach conditions. We also connected the website to a Raspberry Pi using the [IBM Cloud](https://www.ibm.com/cloud).
 
-<img align="left" src="../img/nalu/cloud.png">
-<img align="right" src="../img/nalu/website.png">
+<img class="img-fluid" src="../img/nalu/cloud.png">
+<img class="img-fluid" src="../img/nalu/website.png">
 
 In this project I gained experience with using JSON and reading APIs using Node RED and the IBM Cloud alongside being able to have the Raspberry Pi receive user inputs to display certain values. 
 
