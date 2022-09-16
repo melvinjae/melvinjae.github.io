@@ -10,21 +10,25 @@
     "location": { "address": "", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "melvinjae", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "", "url": "http://https://www.linkedin.com/in/melvin-jae-alhambra-a7729624a/" },
+      { "network": "linkedin", "username": "melvin-jae-alhambra", "url": "http://https://www.linkedin.com/in/melvin-jae-alhambra-a7729624a/" },
 
     ]
   },
   "interests": [
     { "name": "Game Design" },
+    { "name": "Software Engineering" },
+    { "name": "Computer Building" },
+    { "name": "Circuit Building" }
+    
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Python", "Javascript" ]
+      "keywords": [ "C", "C++","C#", "Python", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Git/GitHub","Unity","Windows","Visual Studio Code","Code::Blocks" ]
     }
   ],
   "education": [
@@ -38,73 +42,7 @@
       ]
     }
   ],
-  "work": [
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    },
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "",
-      "",
-      "",
-      ""
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
-  ],
+  
   "references": [
     {
       "name": "Available upon request"
