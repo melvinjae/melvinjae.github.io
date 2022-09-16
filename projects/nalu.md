@@ -22,5 +22,5 @@ Nalu is implemented using [Node RED](https://nodered.org/), a programming tool f
 <img align="left" src="../img/nalu/cloud.png">
 <img align="right" src="../img/nalu/website.png">
 
-In this project I gained experience with using JSON and reading APIs using Node RED and the IBM Cloud. 
+In this project I gained experience with using JSON and reading APIs using Node RED and the IBM Cloud alongside being able to have the Raspberry Pi receive user inputs to display certain values. 
 
