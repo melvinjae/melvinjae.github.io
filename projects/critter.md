@@ -6,7 +6,7 @@ title: "Critter Escape"
 date: 2021
 published: true
 labels:
-  - C++
+  - C#
   - Game Design
   - Unity
 summary: "A self-made game made in Unity for the final project of EE 369."
@@ -20,6 +20,6 @@ Critter Escape is a game I made where the objective is to control a player chara
 <img align="middle" src="/img/critter_escape/bunny.png">
 
 
-Critter Escape was made in [Unity](https://unity.com/), which is a game making software. The scripts for certain aspects in the game uses [Visual Studio](https://visualstudio.microsoft.com/), which is an IDE for C++.
+Critter Escape was made in [Unity](https://unity.com/), which is a game making software. The scripts for certain aspects in the game uses [Visual Studio](https://visualstudio.microsoft.com/), which is the IDE I used and used C#.
 
 For this project I gained experience making my own scripts from scratch as the previous assignment's scripts were already done in the textbook and we only needed to do modifications.
