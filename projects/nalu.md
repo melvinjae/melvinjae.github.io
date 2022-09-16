@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/nalu/smallNalu.png
 title: "Nalu"
-date: 2021
+date: 2022
 published: true
 labels:
   - JSON
