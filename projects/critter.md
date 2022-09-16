@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/critter_escape/map.png
+image: img/critter_escape/mapsquare.png
 title: "Critter Escape"
 date: 2021
 published: true
