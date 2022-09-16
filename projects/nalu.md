@@ -17,12 +17,7 @@ summary: "A responsive web interface for Hawai'i beach conditions that my team d
 
 Nalu is a web interface that I helped create as a team project in EE 368, Spring 2022. The project helped me learn how to design and implement a website interface with buttons.
 
-Nalu is implemented using [Node RED](https://nodered.org/), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Nalu is implemented using [Node RED](https://nodered.org/), a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways. Within a few weeks, we created a website interface that displays the chosen beach conditions. We also connected the website to a Raspberry Pi using the [IBM Cloud](https://www.ibm.com/cloud).
 
 In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
 
-Here is some example code to illustrate Simple Schema use:
-
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
