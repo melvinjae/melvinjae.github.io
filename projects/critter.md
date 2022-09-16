@@ -16,7 +16,7 @@ summary: "A self-made game made in Unity for the final project of EE 369."
 
 Critter Escape is a game I made where the objective is to control a player character and collect critters in order to drop them at a designated area. You only gain points when the accumulated critters are dropped off. The challenge is that there is an enemy flying around that if you get touched then you respawn losing the critters that you currently had. 
 <div class="text-center p-4">
-  <img class="img-fluid" src="/img/critter_escape/player.png"" class="img-thumbnail" >
+  <img class="img-fluid" src="/img/critter_escape/player.png" class="img-thumbnail" >
   <img width="200px" src="/img/critter_escape/enemy.png" class="img-thumbnail" >
   <img width="200px" src="/img/critter_escape/bunny.png" class="img-thumbnail" >
 </div>
