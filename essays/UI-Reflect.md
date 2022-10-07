@@ -21,8 +21,8 @@ In the beginning of learning HTML, I honestly thought it was a bit easier than J
 
 The tediousness and frustration slowly went away when we learned Bootstrap 5. With Bootstrap it allowed for elements to be formatted within classes instead of using CSS to add margins and padding by using a grid system. It also helped with ease of creating rows and columns by simply adding those classes to divs and the columns would automatically space themselves. The images below show a similar webpage but one using raw HTML and CSS, and the other using Bootstrap. The only difference between the HTML files is assigning certain Bootstrap classes to divs and miscellaneous paddings, but the CSS files are vastly different. In my opinion, the page using Bootstrap looks better and it requires less time and frustration. Using raw HTML and CSS is fine but with Bootstrap, in my experience, it is more efficient and convenient.
 
-<img class="img-fluid" src="/img/ui_essay_pics/browserhistorycol.png">
-<img class="img-fluid" src="/img/ui_essay_pics/browserhistcss1.png">
-<img class="img-fluid" src="/img/ui_essay_pics/browserhistcss2.png">
-<img class="img-fluid" src="/img/ui_essay_pics/browserhistorycolboot.png">
-<img class="img-fluid" src="/img/ui_essay_pics/browserhistbootcss.png">
+<img class="img-fluid" src="/img/ui_essay_pics/browserhistorycol.png" height="100">
+<img class="img-fluid" src="/img/ui_essay_pics/browserhistcss1.png" height="100">
+<img class="img-fluid" src="/img/ui_essay_pics/browserhistcss2.png" height="100">
+<img class="img-fluid" src="/img/ui_essay_pics/browserhistorycolboot.png" height="100">
+<img class="img-fluid" src="/img/ui_essay_pics/browserhistbootcss.png" height="100">
