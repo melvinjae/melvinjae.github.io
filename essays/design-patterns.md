@@ -13,9 +13,9 @@ labels:
 ## Pattern Recognition
 Pattern Recognition is an ability human brains have that finds patterns and figures out what those patterns lead to. An example of this can be seen in modern Tetris games, which I'm currently into right now. In modern Tetris, the goal is to versus an opponent and send as much garbage as you can to them, this is usually done by clearing lines in your own board. A strong technique in the game is called a T-Spin Double, or TSD for short. This ties into pattern recognition by utilizing a template which in this case is a empty space with a T shape with an overhang which can be viewed in the images below.
 <div class="text-center p-4">
-<img width="75px" src="https://cdn.discordapp.com/attachments/1019876231405109261/1048143406108508171/image0.jpg" alt="">
-<img width="75px" src="https://cdn.discordapp.com/attachments/1019876231405109261/1048143396490973225/image0.jpg" alt="">
-<img width="75px" src="https://cdn.discordapp.com/attachments/1019876231405109261/1048143361988644894/image0.jpg" alt="">
+<img width="100px" src="https://cdn.discordapp.com/attachments/1019876231405109261/1048143406108508171/image0.jpg" alt="">
+<img width="100px" src="https://cdn.discordapp.com/attachments/1019876231405109261/1048143396490973225/image0.jpg" alt="">
+<img width="100px" src="https://cdn.discordapp.com/attachments/1019876231405109261/1048143361988644894/image0.jpg" alt="">
 </div>
 
 ## Actual Design Patterns (not tetris)
