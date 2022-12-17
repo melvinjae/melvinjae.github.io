@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="Designing a Nice Pattern | Melvin Jae Alhambra | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/melvinjae.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Melvin Jae Alhambra | Professional Portfolio">
+    <meta property="og:url" content="https://melvinjae.github.io/essays/design-patterns.html">
+    <meta property="og:title" content="Designing a Nice Pattern | Melvin Jae Alhambra | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/melvinjae.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>Designing a Nice Pattern | Melvin Jae Alhambra | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Melvin Jae Alhambra</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">Designing a Nice Pattern</h1>
+  <span class="date">01 Dec 2022</span>
+  <hr>
+  <h2 id="pattern-recognition">Pattern Recognition</h2>
+<p>Pattern Recognition is an ability human brains have that finds patterns and figures out what those patterns lead to. An example of this can be seen in modern Tetris games, which I’m currently into right now. In modern Tetris, the goal is to versus an opponent and send as much garbage as you can to them, this is usually done by clearing lines in your own board. A strong technique in the game is called a T-Spin Double, or TSD for short. This ties into pattern recognition by utilizing a template which in this case is a empty space with a T shape with an overhang which can be viewed in the images below.</p>
+<div class="text-center p-4">
+<img width="100px" src="https://cdn.discordapp.com/attachments/1019876231405109261/1048143406108508171/image0.jpg" alt="" />
+<img width="100px" src="https://cdn.discordapp.com/attachments/1019876231405109261/1048143396490973225/image0.jpg" alt="" />
+<img width="100px" src="https://cdn.discordapp.com/attachments/1019876231405109261/1048143361988644894/image0.jpg" alt="" />
+</div>
+
+<h2 id="actual-design-patterns-not-tetris">Actual Design Patterns (not tetris)</h2>
+
+<p>Now how does Tetris relate to design patterns in software development? Well design patterns are a general, reusable solution to a commonly occurring problem in software design and is a template that can be used in many different situations. Just like how there is a general template in the TSD, being an empty T space and a general, reusable solution being an overhang.</p>
+
+<h2 id="my-relationship-with-design-patterns">My Relationship With Design Patterns</h2>
+<p>We did not get along well as I was unable to understand it fully. Some concepts of design patterns I have used were Factory, Observer, and Singleton. These were implemented in my Critter game, that can be viewed in the projects section of the portfolio</p>
+<h4 id="just-a-factory-worker">Just a Factory Worker</h4>
+<p>In my Critter game, I created physical objects that fall under the same concept of movable entities, but each object moved different from each other.</p>
+<h4 id="only-an-observer">Only an Observer</h4>
+<p>In the same game, I had multiple event handlers that processed score and the player taking damage. The floor had an OnCollisionEnter handler that reacted if a player had went into the collection area and offloaded any saved critters. There was also another OnCollisionEnter handler that reacted when a collectable critter was touched by the player.</p>
+<h4 id="eventually-became-singleton">Eventually became Singleton</h4>
+<p>The Singleton used in my game was to keep track of score… Which I did not end up correctly implementing because lack of understanding. I somewhat implemented a singleton correctly in another game I worked on, but it still had its issues.</p>
+
+<h3 id="thoughts-on-design-patterns-as-a-whole">Thoughts On Design Patterns as a whole</h3>
+<p>I have only scratched the surface on what design patterns are, but the concept resonates in me because I like to reuse viable code whenever possible as it seems efficient to me.</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>

@@ -1,0 +1,51 @@
+{
+  "basics": {
+    "name": "Melvin Jae Alhambra",
+    "label": "Student",
+    "picture": "https://github.com/melvinjae.png",
+    "email": "melvin42@hawaii.edu",
+    "phone": "808-348-5143",
+    "website": "https://melvinjae.github.io",
+    "summary": "I am a Computer Engineering senior at the University of Hawaii at Manoa. I expect to graduate Fall 2022",
+    "location": { "address": "", "postalCode": "96797", "city": "Waipahu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "melvinjae", "url": "https://github.com/melvinjae" },
+      { "network": "linkedin", "username": "melvin-jae-alhambra", "url": "http://https://www.linkedin.com/in/melvin-jae-alhambra-a7729624a/" },
+
+    ]
+  },
+  "interests": [
+    { "name": "Game Design" },
+    { "name": "Software Engineering" },
+    { "name": "Computer Building" },
+    { "name": "Circuit Building" }
+    
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++","C#", "Python", "Javascript" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Git/GitHub","Unity","Windows","Visual Studio Code","Code::Blocks" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Engineering (expected Fall, 2022)",
+      "studyType": "B.S.",
+      "startDate": "2016 August",
+      "endDate": "2022 December",
+      "courses": [
+      ]
+    }
+  ],
+  
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
