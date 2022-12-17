@@ -13,7 +13,7 @@ labels:
 - Software Engineering
 ---
 
-<img class="rounded float-start pe-4" src="https://cdn-images-1.medium.com/fit/t/1600/480/0*a4B539PK-EIKkxmV" alt="">
+<img width="400px" class="rounded float-start pe-4" src="https://cdn-images-1.medium.com/fit/t/1600/480/0*a4B539PK-EIKkxmV" alt="">
 
 ## New Semester
 The first day of this class was quite a different experience. I was eating a Subway sandwich and wanted to make sure I got the starting time correct. It was around 11:15 when I checked. Turns out the class started at 10:30 not 12:00 as I previously thought.
