@@ -21,6 +21,6 @@ Some of my contributions were creating the meet the team page, cleaning up any E
 
 <img width="1000px" class="img-fluid" src="/img/manoamarket/mmteam.png">
 
-My takeaways from this project was how to work as a team using GitHub and how to use milestones to slowly develop the website over a few weeks.
+My takeaways from this project was how to work as a team using GitHub and how to use milestones to slowly develop the website over a few weeks. I also had experience using databases, publications, and subscriptions.
 
 The project homepage can be viewed [here](https://manoa-market.github.io/).
