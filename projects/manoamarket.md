@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/manoamarket/manoamarket.png
 title: "Manoa Market"
-date: 2021
+date: 2022
 published: true
 labels:
   - Meteor
